@@ -1,16 +1,15 @@
-# React + Vite
+#🛒 FreshMart — Supermarket UI
+  A beginner-friendly supermarket shopping app built with React.js, Tailwind CSS, and React Router DOM. Users can sign up, browse products, add items to a cart, pay (dummy), leave feedback, and log out — all across clean, routed pages.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#✨ Features
 
-Currently, two official plugins are available:
+🔐 Login & Signup with basic form validation
+🏪 Product Dashboard — 55 items across 6 categories loaded from a JSON file
+🛍️ Cart Sidebar — add, remove, and change quantities in real time
+💳 Checkout & Payment — dummy payment flow with 3 payment options
+🎉 Success Page — animated order confirmation
+⭐ Feedback Page — star rating with optional comment
+🚪 Final Page — go back to shop or log out
+🔒 Protected Routes — guests are redirected to login automatically
+🌐 React Router DOM — every page has its own URL
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
