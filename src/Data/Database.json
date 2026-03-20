@@ -1,0 +1,71 @@
+{
+  "categories": {
+    "🥦 Produce": [
+      { "id": 1,  "name": "Organic Spinach",         "price": 3.49,  "unit": "200g",    "emoji": "🥬", "tag": "organic" },
+      { "id": 2,  "name": "Roma Tomatoes",            "price": 2.99,  "unit": "500g",    "emoji": "🍅", "tag": null },
+      { "id": 3,  "name": "Hass Avocados",            "price": 1.29,  "unit": "each",    "emoji": "🥑", "tag": "popular" },
+      { "id": 4,  "name": "Gala Apples",              "price": 4.99,  "unit": "1kg",     "emoji": "🍎", "tag": null },
+      { "id": 5,  "name": "Tenderstem Broccoli",      "price": 2.49,  "unit": "200g",    "emoji": "🥦", "tag": "organic" },
+      { "id": 6,  "name": "Sweet Corn",               "price": 0.89,  "unit": "each",    "emoji": "🌽", "tag": null },
+      { "id": 7,  "name": "Red Bell Pepper",          "price": 1.79,  "unit": "each",    "emoji": "🫑", "tag": null },
+      { "id": 8,  "name": "Baby Carrots",             "price": 1.99,  "unit": "300g",    "emoji": "🥕", "tag": null },
+      { "id": 9,  "name": "English Cucumber",         "price": 1.39,  "unit": "each",    "emoji": "🥒", "tag": null },
+      { "id": 10, "name": "Cavendish Bananas",        "price": 1.49,  "unit": "~6pc",    "emoji": "🍌", "tag": "popular" },
+      { "id": 11, "name": "French Shallots",          "price": 2.29,  "unit": "300g",    "emoji": "🧅", "tag": null },
+      { "id": 12, "name": "Baby Potatoes",            "price": 2.79,  "unit": "500g",    "emoji": "🥔", "tag": null }
+    ],
+    "🥛 Dairy & Eggs": [
+      { "id": 13, "name": "Whole Milk A2",            "price": 2.79,  "unit": "1L",      "emoji": "🥛", "tag": "popular" },
+      { "id": 14, "name": "Chobani Greek Yogurt",     "price": 3.99,  "unit": "500g",    "emoji": "🫙", "tag": null },
+      { "id": 15, "name": "Aged Cheddar",             "price": 5.49,  "unit": "200g",    "emoji": "🧀", "tag": null },
+      { "id": 16, "name": "Cultured Butter",          "price": 3.29,  "unit": "250g",    "emoji": "🧈", "tag": "premium" },
+      { "id": 17, "name": "Double Cream",             "price": 2.99,  "unit": "250ml",   "emoji": "🫗", "tag": null },
+      { "id": 18, "name": "24-Month Parmigiano",      "price": 8.49,  "unit": "150g",    "emoji": "🧀", "tag": "premium" },
+      { "id": 19, "name": "Oat Milk Barista",         "price": 3.49,  "unit": "1L",      "emoji": "🥛", "tag": "vegan" },
+      { "id": 20, "name": "Free-Range Eggs",          "price": 4.99,  "unit": "12 pack", "emoji": "🥚", "tag": "popular" },
+      { "id": 21, "name": "Philadelphia Cream Cheese","price": 2.79,  "unit": "200g",    "emoji": "🫙", "tag": null },
+      { "id": 22, "name": "Burrata",                  "price": 6.49,  "unit": "125g",    "emoji": "🧀", "tag": "premium" }
+    ],
+    "🍞 Bakery": [
+      { "id": 23, "name": "SF Sourdough Loaf",        "price": 5.49,  "unit": "loaf",    "emoji": "🍞", "tag": "popular" },
+      { "id": 24, "name": "Stone-baked Pita",         "price": 2.99,  "unit": "6 pack",  "emoji": "🫓", "tag": null },
+      { "id": 25, "name": "Butter Croissants",        "price": 4.49,  "unit": "4 pack",  "emoji": "🥐", "tag": "premium" },
+      { "id": 26, "name": "Everything Bagels",        "price": 3.49,  "unit": "6 pack",  "emoji": "🥯", "tag": null },
+      { "id": 27, "name": "Seeded Rye Loaf",          "price": 4.99,  "unit": "loaf",    "emoji": "🍞", "tag": null },
+      { "id": 28, "name": "Brioche Burger Buns",      "price": 3.99,  "unit": "4 pack",  "emoji": "🫓", "tag": null }
+    ],
+    "🥩 Meat & Seafood": [
+      { "id": 29, "name": "Free-Range Chicken",       "price": 9.99,  "unit": "500g",    "emoji": "🍗", "tag": "popular" },
+      { "id": 30, "name": "Scottish Salmon Fillet",   "price": 12.49, "unit": "300g",    "emoji": "🐟", "tag": "premium" },
+      { "id": 31, "name": "Wagyu Beef Mince",         "price": 12.99, "unit": "500g",    "emoji": "🥩", "tag": "premium" },
+      { "id": 32, "name": "Baby Back Ribs",           "price": 9.49,  "unit": "600g",    "emoji": "🥓", "tag": null },
+      { "id": 33, "name": "Tiger Prawns",             "price": 13.99, "unit": "300g",    "emoji": "🦐", "tag": "popular" },
+      { "id": 34, "name": "Frenched Lamb Chops",      "price": 16.49, "unit": "400g",    "emoji": "🍖", "tag": "premium" },
+      { "id": 35, "name": "Yellowfin Tuna Steak",     "price": 11.99, "unit": "250g",    "emoji": "🐠", "tag": null },
+      { "id": 36, "name": "Smoked Duck Breast",       "price": 8.49,  "unit": "200g",    "emoji": "🦆", "tag": "premium" },
+      { "id": 37, "name": "King Crab Claws",          "price": 22.99, "unit": "300g",    "emoji": "🦀", "tag": "premium" }
+    ],
+    "🧴 Pantry & Dry Goods": [
+      { "id": 38, "name": "Cold-Press Olive Oil",     "price": 9.99,  "unit": "500ml",   "emoji": "🫒", "tag": "premium" },
+      { "id": 39, "name": "Aged Basmati Rice",        "price": 3.49,  "unit": "1kg",     "emoji": "🍚", "tag": null },
+      { "id": 40, "name": "Organic Black Beans",      "price": 1.59,  "unit": "can",     "emoji": "🫘", "tag": "organic" },
+      { "id": 41, "name": "Organic Coconut Milk",     "price": 2.29,  "unit": "400ml",   "emoji": "🥥", "tag": "vegan" },
+      { "id": 42, "name": "Tamari Soy Sauce",         "price": 3.19,  "unit": "200ml",   "emoji": "🫙", "tag": null },
+      { "id": 43, "name": "Almond Butter",            "price": 6.49,  "unit": "340g",    "emoji": "🥜", "tag": null },
+      { "id": 44, "name": "Raw Manuka Honey",         "price": 11.99, "unit": "250g",    "emoji": "🍯", "tag": "premium" },
+      { "id": 45, "name": "Bronze-cut Rigatoni",      "price": 3.49,  "unit": "500g",    "emoji": "🍝", "tag": null },
+      { "id": 46, "name": "Organic Chickpeas",        "price": 1.49,  "unit": "can",     "emoji": "🫘", "tag": "organic" },
+      { "id": 47, "name": "San Marzano Passata",      "price": 3.79,  "unit": "680ml",   "emoji": "🍅", "tag": "premium" },
+      { "id": 48, "name": "Maldon Sea Salt",          "price": 4.99,  "unit": "125g",    "emoji": "🧂", "tag": "premium" },
+      { "id": 49, "name": "Valrhona Dark Chocolate",  "price": 5.49,  "unit": "100g",    "emoji": "🍫", "tag": "premium" },
+      { "id": 50, "name": "Arborio Risotto Rice",     "price": 3.99,  "unit": "500g",    "emoji": "🍚", "tag": null }
+    ],
+    "🧃 Beverages": [
+      { "id": 51, "name": "Cold Brew Concentrate",    "price": 7.99,  "unit": "500ml",   "emoji": "☕", "tag": "popular" },
+      { "id": 52, "name": "Sparkling Mineral Water",  "price": 1.99,  "unit": "750ml",   "emoji": "💧", "tag": null },
+      { "id": 53, "name": "Pressed Orange Juice",     "price": 4.49,  "unit": "1L",      "emoji": "🍊", "tag": "fresh" },
+      { "id": 54, "name": "Matcha Latte Powder",      "price": 9.99,  "unit": "100g",    "emoji": "🍵", "tag": "premium" },
+      { "id": 55, "name": "Kombucha Ginger Lemon",    "price": 3.99,  "unit": "330ml",   "emoji": "🫧", "tag": "probiotic" }
+    ]
+  }
+}
